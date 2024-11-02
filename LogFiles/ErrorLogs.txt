@@ -1,0 +1,20 @@
+=================================================================================================
+[11/3/2024 12:06:32 AM]: System.Exception: Create Contact Error: Input was empty.
+   at ADVOOP.PhoneBookService.AddContact(String name, String phone) in C:\Users\PC\Desktop\localLab\AdvOOP-2\PhoneBookService.cs:line 49
+=================================================================================================
+=================================================================================================
+[11/3/2024 12:06:55 AM]: System.Exception: Create Contact Error: Input was empty.
+   at ADVOOP.PhoneBookService.AddContact(String name, String phone) in C:\Users\PC\Desktop\localLab\AdvOOP-2\PhoneBookService.cs:line 49
+=================================================================================================
+=================================================================================================
+[11/3/2024 12:10:13 AM]: System.Exception: checking phone number: Input was empty.
+   at ADVOOP.PhoneBookService.isPhoneNumber(String phone) in C:\Users\PC\Desktop\localLab\AdvOOP-2\PhoneBookService.cs:line 218
+=================================================================================================
+=================================================================================================
+[11/3/2024 12:10:13 AM]: System.Exception: Create Contact Error: Input was empty.
+   at ADVOOP.PhoneBookService.AddContact(String name, String phone) in C:\Users\PC\Desktop\localLab\AdvOOP-2\PhoneBookService.cs:line 48
+=================================================================================================
+=================================================================================================
+[11/3/2024 12:26:55 AM]: System.Exception: checking phone number: Input was empty.
+   at ADVOOP.PhoneBookService.isPhoneNumber(String phone) in C:\Users\PC\Desktop\localLab\AdvOOP-2\PhoneBookService.cs:line 209
+=================================================================================================
